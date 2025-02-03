@@ -13,7 +13,7 @@ A fast language based on Lua syntax, compiling directly to **assembly**. FluxLan
 
 ## Stats 📊
 
-![Stats](https://github-readme-stats.vercel.app/api?username=The-baremetal&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Stats](https://github-readme-stats.vercel.app/api?username=luohoa97&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## Followers and Stars 🌟
 
