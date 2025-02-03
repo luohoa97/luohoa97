@@ -22,9 +22,9 @@ A fast language based on Lua syntax, compiling directly to **assembly**. FluxLan
 
 ## Bare Metal Organization Members 🏢
 
-Here are some members of the **Bare Metal Organization**:
+Here are some members of the **[@The-baremetal](Bare metal organisation)**:
 
-- [@The-baremetal](https://github.com/The-baremetal) - Owner & Sole Contributor
+- [@luohoa97](https://github.com/luohoa97) - Owner & Sole Contributor
 
 ## Let's Connect! 🌐
 Feel free to explore my repositories, open issues, or even contribute to the projects if you're interested in bare-metal programming or OS development!
