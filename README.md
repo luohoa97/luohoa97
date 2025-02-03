@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! Welcome to my github profile! 👋
 
-<!--
-**luohoa97/luohoa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm the sole proprietor of the **Bare Metal Organization**. I work on projects that span from **low-level programming** to **operating system development**. I focus on **Rust**, **Go**, **FluxLang**, and **Aether** for OS-level programming. You can find some of my projects below!
 
-Here are some ideas to get you started:
+## Active Projects 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Flux Assembly](https://github.com/The-baremetal/FLUXASSEMBLY)
+A programming language designed to be fast, compiled, and simple, aimed at OS-level programming. You can check out my **Lua grammar for ANTLR4** used in the project [here](https://github.com/The-baremetal/FLUXASSEMBLY/blob/main/src/lua_grammar_antlr4.g4).
+
+### **FluxLang** 🔥
+A fast language based on Lua syntax, compiling directly to **assembly**. FluxLang is the base for my future operating system work and aims to bring a clean, high-performance experience.
+
+## Stats 📊
+
+![Stats](https://github-readme-stats.vercel.app/api?username=The-baremetal&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## Followers and Stars 🌟
+
+- **Followers:** ![Followers](https://img.shields.io/github/followers/The-baremetal?label=Followers&style=social)
+- **Stars:** ![Stars](https://img.shields.io/github/stars/The-baremetal?label=Stars&style=social)
+
+## Bare Metal Organization Members 🏢
+
+Here are some members of the **Bare Metal Organization**:
+
+- [@The-baremetal](https://github.com/The-baremetal) - Owner & Sole Contributor
+
+## Let's Connect! 🌐
+Feel free to explore my repositories, open issues, or even contribute to the projects if you're interested in bare-metal programming or OS development!
+
+Thanks for stopping by! 😄
