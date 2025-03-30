@@ -1,7 +1,7 @@
 # Hi there! Welcome to my github profile! 👋
 
 ## About Me
-I'm the sole proprietor of the **Bare Metal Organization**. I work on projects that span from **low-level programming** to **operating system development**. I focus on **Rust**, **Go**, and **Aether**(fluxassembly basically) for OS-level programming. I use windows as a daily driver and my discord is luohoa97 You can find some of my projects below!
+I'm the sole proprietor of the **Bare Metal Organization**. I focus on **Go**, and **Aether**. I use windows as a daily driver and my discord is luohoa97 You can find some of my projects below!
 
 <picture>
   <source
@@ -20,20 +20,13 @@ I'm the sole proprietor of the **Bare Metal Organization**. I work on projects t
 
 ## Active Projects 🚀
 
-### [Flux Assembly](https://github.com/The-baremetal/FLUXASSEMBLY)
-A programming language designed to be fast, compiled, and simple, aimed at OS-level programming. You can check out my **Lua grammar for ANTLR4** used in the project [here](https://github.com/The-baremetal/FLUXASSEMBLY/blob/main/src/lua_grammar_antlr4.g4).
-
-### **FluxLang** 🔥
-A fast language based on Lua syntax, compiling directly to **assembly**. FluxLang is the base for my future operating system work and aims to bring a clean, high-performance experience.
+### [Aether](https://github.com/The-baremetal/FLUXASSEMBLY)
+A programming language designed to be fast, compiled, and simple [language](https://github.com/The-baremetal/FLUXASSEMBLY/blob/main/src/lua_grammar_antlr4.g4).
 
 ## Stats 📊
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=luohoa97&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## Followers and Stars 🌟
-
-- **Followers:** ![Followers](https://img.shields.io/github/followers/The-baremetal?label=Followers&style=social)
-- **Stars:** ![Stars](https://img.shields.io/github/stars/The-baremetal?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/The-baremetal?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/The-baremetal?label=Stars&style=social)
 
 ## Bare Metal Organization Members 🏢
 
@@ -42,6 +35,6 @@ Here are some members of the **[@The-baremetal](Bare metal organisation)**:
 - [@luohoa97](https://github.com/luohoa97) - Owner & Sole Contributor
 
 ## Let's Connect! 🌐
-Feel free to explore my repositories, open issues, or even contribute to the projects if you're interested in bare-metal programming or OS development!
+Feel free to explore my repositories, open issues, or even contribute to the projects as I openly invite contributors.
 
-Thanks for stopping by! 😄
+Thanks for stopping by!
