@@ -1,7 +1,7 @@
 # Hi there! Welcome to my github profile! 👋
 
 ## About Me
-I'm the sole proprietor of the **Bare Metal Organization**. I work on projects that span from **low-level programming** to **operating system development**. I focus on **Rust**, **Go**, and **Aether**(fluxassembly basically) for OS-level programming. You can find some of my projects below!
+I'm the sole proprietor of the **Bare Metal Organization**. I work on projects that span from **low-level programming** to **operating system development**. I focus on **Rust**, **Go**, and **Aether**(fluxassembly basically) for OS-level programming. I use windows as a daily driver and my discord is luohoa97 You can find some of my projects below!
 
 <picture>
   <source
