@@ -8,7 +8,7 @@
 ![luohoa97](https://github-readme-stats.vercel.app/api/top-langs?username=luohoa97&show_icons=true&theme=tokyonight&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://luohoa97.github.com/luohoa97/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://luohoa97.github.com/luohoa97/github-snake.svg" />
-  <img alt="github-snake" src="https://luohoa97.github.com/luohoa97/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://luohoa97.github.io/luohoa97/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://luohoa97.github.io/luohoa97/github-snake.svg" />
+  <img alt="github-snake" src="https://luohoa97.github.io/luohoa97/github-snake.svg" />
 </picture>
